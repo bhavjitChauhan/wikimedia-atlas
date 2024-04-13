@@ -156,5 +156,5 @@ cython_debug/
 *.gexf
 
 # Images
-*.png
+images/*.png
 !images/graph-communities-1k-transparent.png
