@@ -1,4 +1,4 @@
-# [Wikimedia Atlas]
+# Wikimedia Atlas
 
 ![](images/graph-communities-1k-transparent.png)
 
