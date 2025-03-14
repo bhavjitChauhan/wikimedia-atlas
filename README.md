@@ -6,7 +6,7 @@ Explore the structure and relationships of Wikimedia wiki pages.
 
 ## Visualization
 
-A live version of the visualization can be found [here](https://pages.github.sfu.ca/bca105/wikimedia-atlas/).
+A live version of the visualization can be found [here](https://wikimedia-atlas.bhavjit.com).
 
 ## Proof of Concept
 
